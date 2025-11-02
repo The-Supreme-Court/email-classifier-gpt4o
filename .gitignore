@@ -1,0 +1,6 @@
+.env
+emails.csv
+results.csv
+__pycache__/
+*.pyc
+Z_Old/
